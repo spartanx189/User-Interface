@@ -29,6 +29,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
+	border: 50px solid red;
 	line-height: 1;
 }
 ol, ul {
